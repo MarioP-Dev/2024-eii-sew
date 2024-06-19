@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rutas>
+    <ruta>
+        <nombre>Ruta de los Molinos de Guadalupe</nombre>
+        <tipo>Senderismo</tipo>
+        <transporte>A pie</transporte>
+        <fechaInicio>2024-07-15</fechaInicio>
+        <horaInicio>09:00</horaInicio>
+        <duracion>4 horas</duracion>
+        <agencia>Sin agencia</agencia>
+        <descripcion>Un recorrido pintoresco a lo largo de antiguos molinos de agua en Guadalupe.</descripcion>
+        <personasAdecuadas>Personas en buena forma física</personasAdecuadas>
+        <lugarInicio>Plaza de Santa María</lugarInicio>
+        <direccionInicio>Plaza Mayor</direccionInicio>
+        <coordenadasInicio>
+            <longitud>-5.3324</longitud>
+            <latitud>39.4507</latitud>
+            <altitud>400</altitud>
+        </coordenadasInicio>
+        <referencias>
+            <referencia>https://es.wikipedia.org/wiki/Guadalupe</referencia>
+            <referencia>http://www.guadalupe.es/</referencia>
+            <referencia>https://www.turismoextremadura.com/</referencia>
+        </referencias>
+        <recomendacion>8</recomendacion>
+        <hitos>
+            <hito>
+                <nombre>Molino del Capellán</nombre>
+                <descripcion>Un molino restaurado del siglo XVIII en plena naturaleza.</descripcion>
+                <coordenadasHito>
+                    <longitud>-5.3350</longitud>
+                    <latitud>39.4525</latitud>
+                    <altitud>420</altitud>
+                </coordenadasHito>
+                <distancia unidades="km">0.8</distancia>
+                <galeriaFotos>
+                    <foto>MolinoCapellan1.jpg</foto>
+                    <foto>MolinoCapellan2.jpg</foto>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.youtube.com/watch?v=example1</video>
+                </galeriaVideos>
+            </hito>
+            <hito>
+                <nombre>Molino del Batán</nombre>
+                <descripcion>Antiguo molino en ruinas con vistas espectaculares.</descripcion>
+                <coordenadasHito>
+                    <longitud>-5.3380</longitud>
+                    <latitud>39.4540</latitud>
+                    <altitud>430</altitud>
+                </coordenadasHito>
+                <distancia unidades="km">1.2</distancia>
+                <galeriaFotos>
+                    <foto>MolinoBatan1.jpg</foto>
+                    <foto>MolinoBatan2.jpg</foto>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.youtube.com/watch?v=example2</video>
+                </galeriaVideos>
+            </hito>
+            <hito>
+                <nombre>Molino de la Ribera</nombre>
+                <descripcion>Molino junto al río Guadalupe, ideal para un descanso.</descripcion>
+                <coordenadasHito>
+                    <longitud>-5.3420</longitud>
+                    <latitud>39.4560</latitud>
+                    <altitud>440</altitud>
+                </coordenadasHito>
+                <distancia unidades="km">1.5</distancia>
+                <galeriaFotos>
+                    <foto>MolinoRibera1.jpg</foto>
+                    <foto>MolinoRibera2.jpg</foto>
+                </galeriaFotos>
+            </hito>
+        </hitos>
+    </ruta>
+
+    <ruta>
+        <nombre>Ruta de los Conquistadores</nombre>
+        <tipo>Histórica</tipo>
+        <transporte>Bicicleta</transporte>
+        <fechaInicio>2024-08-10</fechaInicio>
+        <horaInicio>08:00</horaInicio>
+        <duracion>5 horas</duracion>
+        <agencia>NaturaTur</agencia>
+        <descripcion>Ruta en bicicleta por los lugares de nacimiento de los conquistadores extremeños.</descripcion>
+        <personasAdecuadas>Se puede ir con niños</personasAdecuadas>
+        <lugarInicio>Plaza de Pizarro, Trujillo</lugarInicio>
+        <direccionInicio>Calle Francisco Pizarro</direccionInicio>
+        <coordenadasInicio>
+            <longitud>-5.8822</longitud>
+            <latitud>39.4594</latitud>
+            <altitud>560</altitud>
+        </coordenadasInicio>
+        <referencias>
+            <referencia>https://es.wikipedia.org/wiki/Trujillo_(España)</referencia>
+            <referencia>https://www.trujillo.es/</referencia>
+            <referencia>https://www.turismoextremadura.com/</referencia>
+        </referencias>
+        <recomendacion>9</recomendacion>
+        <hitos>
+            <hito>
+                <nombre>Casa de Pizarro</nombre>
+                <descripcion>Casa natal de Francisco Pizarro, ahora un museo.</descripcion>
+                <coordenadasHito>
+                    <longitud>-5.8830</longitud>
+                    <latitud>39.4600</latitud>
+                    <altitud>565</altitud>
+                </coordenadasHito>
+                <distancia unidades="km">0.3</distancia>
+                <galeriaFotos>
+                    <foto>Pizarro1.jpg</foto>
+                    <foto>Pizarro2.jpg</foto>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.youtube.com/watch?v=example3</video>
+                </galeriaVideos>
+            </hito>
+            <hito>
+                <nombre>Casa de Orellana</nombre>
+                <descripcion>Casa natal de Francisco de Orellana, descubridor del Amazonas.</descripcion>
+                <coordenadasHito>
+                    <longitud>-5.8800</longitud>
+                    <latitud>39.4620</latitud>
+                    <altitud>570</altitud>
+                </coordenadasHito>
+                <distancia unidades="km">1.0</distancia>
+                <galeriaFotos>
+                    <foto>Orellana1.jpg</foto>
+                    <foto>Orellana2.jpg</foto>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.youtube.com/watch?v=example4</video>
+                </galeriaVideos>
+            </hito>
+            <hito>
+                <nombre>Castillo de Trujillo</nombre>
+                <descripcion>Castillo medieval con vistas panorámicas de la región.</descripcion>
+                <coordenadasHito>
+                    <longitud>-5.8860</longitud>
+                    <latitud>39.4630</latitud>
+                    <altitud>580</altitud>
+                </coordenadasHito>
+                <distancia unidades="km">1.5</distancia>
+                <galeriaFotos>
+                    <foto>Castillo1.jpg</foto>
+                    <foto>Castillo2.jpg</foto>
+                </galeriaFotos>
+            </hito>
+        </hitos>
+        <planimetria>rutas_conquistadores.kml</planimetria>
+        <altimetria>altimetria_conquistadores.svg</altimetria>
+    </ruta>
+
+    <ruta>
+        <nombre>Ruta de la Sierra de Gata</nombre>
+        <tipo>Paisajística</tipo>
+        <transporte>A pie</transporte>
+        <fechaInicio>2024-09-20</fechaInicio>
+        <horaInicio>07:00</horaInicio>
+        <duracion>6 horas</duracion>
+        <agencia>Sin agencia</agencia>
+        <descripcion>Recorrido por la Sierra de Gata, disfrutando de paisajes naturales y pueblos con encanto.</descripcion>
+        <personasAdecuadas>Personas en buena forma física</personasAdecuadas>
+        <lugarInicio>Plaza Mayor, Gata</lugarInicio>
+        <direccionInicio>Plaza Mayor</direccionInicio>
+        <coordenadasInicio>
+            <longitud>-6.7392</longitud>
+            <latitud>40.2236</latitud>
+            <altitud>450</altitud>
+        </coordenadasInicio>
+        <referencias>
+            <referencia>https://es.wikipedia.org/wiki/Sierra_de_Gata</referencia>
+            <referencia>http://www.sierradegata.org/</referencia>
+            <referencia>https://www.turismoextremadura.com/</referencia>
+        </referencias>
+        <recomendacion>10</recomendacion>
+        <hitos>
+            <hito>
+                <nombre>Mirador de la Vistabella</nombre>
+                <descripcion>Mirador con vistas espectaculares de toda la sierra.</descripcion>
+                <coordenadasHito>
+                    <longitud>-6.7420</longitud>
+                    <latitud>40.2250</latitud>
+                    <altitud>500</altitud>
+                </coordenadasHito>
+                <distancia unidades="km">1.0</distancia>
+                <galeriaFotos>
+                    <foto>Mirador1.jpg</foto>
+                    <foto>Mirador2.jpg</foto>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.youtube.com/watch?v=example5</video>
+                </galeriaVideos>
+            </hito>
+            <hito>
+                <nombre>Pueblo de Gata</nombre>
+                <descripcion>Pueblo con encanto y arquitectura tradicional.</descripcion>
+                <coordenadasHito>
+                    <longitud>-6.7392</longitud>
+                    <latitud>40.2236</latitud>
+                    <altitud>450</altitud>
+                </coordenadasHito>
+                <distancia unidades="km">1.5</distancia>
+                <galeriaFotos>
+                    <foto>Gata1.jpg</foto>
+                    <foto>Gata2.jpg</foto>
+                </galeriaFotos>
+            </hito>
+            <hito>
+                <nombre>Almenara de Gata</nombre>
+                <descripcion>Antigua torre de vigilancia árabe con vistas impresionantes.</descripcion>
+                <coordenadasHito>
+                    <longitud>-6.7440</longitud>
+                    <latitud>40.2270</latitud>
+                    <altitud>550</altitud>
+                </coordenadasHito>
+                <distancia unidades="km">2.0</distancia>
+                <galeriaFotos>
+                    <foto>Almenara1.jpg</foto>
+                    <foto>Almenara2.jpg</foto>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.youtube.com/watch?v=example6</video>
+                </galeriaVideos>
+            </hito>
+        </hitos>
+        <planimetria>rutas_gata.kml</planimetria>
+        <altimetria>altimetria_gata.svg</altimetria>
+    </ruta>
+</rutas>

@@ -1,0 +1,138 @@
+/*
+    Mario Pérez Fernández
+    UO283720
+    mp@mariopdev.com
+*/
+
+
+body {
+    background-color: white;
+    color: #333;
+}
+
+
+
+/* Estilo para el título principal */
+h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+
+
+/* Estilo para los enlaces de navegación */
+nav a {
+    color: #fff;
+    background-color: transparent;
+    text-decoration: none;
+    margin: 0 15px;
+    padding: 5px 10px;
+    transition: background 0.3s ease-in-out;
+}
+
+nav a:hover {
+    background-color: #555;
+    color: white;
+    border-radius: 5px;
+}
+
+
+
+/* Estilo para títulos de sección */
+h2, h3 {
+    color: #333;
+    background-color: transparent;
+    border-bottom: 2px solid #eaeaea;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* Estilo para listas desordenadas */
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Estilo para listas ordenadas */
+ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+    margin: 0;
+}
+
+ol li {
+    margin-bottom: 10px;
+}
+
+/* Estilo para las tablas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #fff;
+    color: #333;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+/* Estilo para las celdas de la tabla */
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+table th {
+    background-color: #f7f7f7;
+    color: #333;
+    font-weight: bold;
+}
+
+
+/* Estilo para enlaces en el pie de página */
+footer a {
+    color: #fff;
+    background-color: transparent;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s ease-in-out;
+}
+
+footer a:hover {
+    color: #ddd;
+    background-color: inherit;
+}
+
+
+div[id^="map-"] {
+    width: 100%;
+    height: 300px;
+}
+
+
+video {
+    max-width: 100%;
+    
+}
+
+[data-question-container] {
+    margin-bottom: 20px;
+}
+[data-question] {
+    font-weight: bold;
+}
+[data-options] {
+    list-style-type: none;
+    padding: 0;
+}
+[data-options] li {
+    margin-bottom: 10px;
+}
+[data-hidden] {
+    display: none;
+}
